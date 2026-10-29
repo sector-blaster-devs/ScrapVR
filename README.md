@@ -14,6 +14,8 @@ failed attempts and every bug we hit along the way are all in here.
  Phone in a headset: screen = display, gyro = head rotation, rear camera = the eye view
 ```
 
+![ScrapVR prototype: phone headset with a front-mounted webcam](media/headset-prototype.png)
+
 ## What works today
 
 | Part | Status |
@@ -73,4 +75,5 @@ each decision in [docs/](docs/).
 
 MIT, see [LICENSE](LICENSE). The MediaPipe hand model is Google's (Apache 2.0) and is
 downloaded, not redistributed.
+
 
