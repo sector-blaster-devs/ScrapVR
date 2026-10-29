@@ -1,0 +1,6 @@
+* text=auto
+# The marker PDF is plain-ASCII inside but byte offsets matter: never convert line endings.
+*.pdf binary
+*.png binary
+*.jpg binary
+*.task binary

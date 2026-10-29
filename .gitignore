@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Downloaded model (tools/download_models.py)
+tracker/models/
+
+# Calibrations are per camera / per person: measure your own
+tracker/camera_*.json
+tracker/hands_calibration.json
+tracker/mount_calibration.json
+
+# Android build output and the local debug signing key
+android/build/
+android/*.keystore
+
+# Run logs and captured frames
+*.log
+captures/
