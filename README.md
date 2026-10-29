@@ -48,6 +48,10 @@ The VR view itself is rendered by the game on the PC: any engine that can read t
 messages in [docs/PROTOCOL.md](docs/PROTOCOL.md). A standalone Godot receiver is on the
 [roadmap](docs/ROADMAP.md).
 
+## Demonstration and downloads
+
+[Watch the hand-tracking demo](media/README.md) · [Download ScrapVR Pose APK](android/apk/README.md) · [Early wired-display experiment and ADB recovery](docs/EARLY-EXPERIMENTS.md)
+
 ## Quick start
 
 ```powershell
@@ -69,3 +73,4 @@ each decision in [docs/](docs/).
 
 MIT, see [LICENSE](LICENSE). The MediaPipe hand model is Google's (Apache 2.0) and is
 downloaded, not redistributed.
+
