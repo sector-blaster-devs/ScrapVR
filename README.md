@@ -67,7 +67,7 @@ Then follow [docs/SETUP.md](docs/SETUP.md) for the phone, the stream and the cal
 
 ## Built in public
 
-This is a side project built in the open, by one person and two AI coding assistants
+This is a side project by **RoundUP studio**, built in the open with two AI coding assistants
 checking each other's work. Expect rough edges, honest status, and the reasoning behind
 each decision in [docs/](docs/).
 
@@ -75,5 +75,6 @@ each decision in [docs/](docs/).
 
 MIT, see [LICENSE](LICENSE). The MediaPipe hand model is Google's (Apache 2.0) and is
 downloaded, not redistributed.
+
 
 
